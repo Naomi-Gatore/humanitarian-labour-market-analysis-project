@@ -1,0 +1,7 @@
+name,platform,identifier,active,method
+Amref,smartrecruiters,AmrefHealthAfrica4,True,api
+GiveDirectly,greenhouse,givedirectly,True,api
+Human Rights Watch,greenhouse,humanrightswatch,True,api
+MSF USA,greenhouse,workoverseas,True,api
+USA for UNHCR,greenhouse,usaforunhcr,False,api
+DevNetJobs,devnetjobs,standard_jobs,True,scrape
